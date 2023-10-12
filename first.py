@@ -1,3 +1,4 @@
 def adarsh():
-    pass
+    x="hello adarsh"
+    print(x)
     
